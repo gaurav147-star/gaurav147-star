@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Gupta</h1>
-- 🌱 I’m currently learning **Full Stack Dev & DSA**
+- 🌱 I’m currently learning Full Stack Dev & DSA
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
