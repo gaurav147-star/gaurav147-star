@@ -13,6 +13,8 @@
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
+
+<p align="left">
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" />
 
