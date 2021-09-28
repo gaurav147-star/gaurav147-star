@@ -36,7 +36,7 @@
 
   <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav147-star&langs_count=8&theme=nightowl" alt="gaurav gupta"/></td>
    
-
+<td><img src="https://github-readme-stats.vercel.app/api?username=gaurav147-star&theme=nightowl&show_icons=true" alt="gaurav gupta" />
   </tr>  
 </table>
  <h2 align="center">
