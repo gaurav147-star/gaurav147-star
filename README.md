@@ -5,6 +5,8 @@
 
 <h3 align="center">I’m currently learning Full Stack Dev & DSA</h3>
 </p>
+ <h2 align="center">
+
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/gaugupta147" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-08143D?style=for-the-badge&logo=twitter&logoColor=white" alt="gaugupta147" height="30"  /></a>
