@@ -42,10 +42,15 @@
    
 <td><img src="https://github-readme-stats.vercel.app/api?username=gaurav147-star&theme=nightowl&show_icons=true" alt="gaurav gupta" />
   </tr>  
-  <tr align="center">
+</table>
+<table align="center">
+  <tr>
+
   <td>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav147-star&theme=nightowl&show_icons=true" alt="gaurav147-star" />
+
   </td>
-  </tr>
-</table>
+    </tr>
+
+  </table>
  <h2 align="center">
