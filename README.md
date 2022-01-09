@@ -47,6 +47,7 @@
   <tr>
 
   <td>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav147-star&theme=nightowl&show_icons=true" alt="gaurav147-star" />
 
   </td>
     </tr>
@@ -57,5 +58,9 @@
  <details>
  <summary>Current rice</summary>
 
-  <img src="https://raw.githubusercontent.com/gaurav147-star/gaurav147-star/main/assets/rice.png" alt="gaurav147-star" />
+---
+
+ <p align="center"> <img src="https://raw.githubusercontent.com/gaurav147-star/gaurav147-star/main/assets/rice.png" alt="gaurav147-star" />
+ </p>
+ 
  </details>
