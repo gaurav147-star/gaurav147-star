@@ -54,3 +54,8 @@
 
   </table>
  <h2 align="center">
+
+ <details>
+ <summary>Current rice</summary>
+ 
+ </details>
