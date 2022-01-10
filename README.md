@@ -3,7 +3,8 @@
 <p align="left">
 <a href="https://github.com/gaurav147-star"><img alt="Counter"src="https://visitor-badge.glitch.me/badge?page_id=gaurav147-star.visitor-badge" /></a>
 
-<h3 align="center">I’m currently learning Full Stack Dev & DSA</h3>
+
+<h3 align="center">I’m currently learning FullStack Development & DSA.</h3>
 </p>
  <h2 align="center">
 
