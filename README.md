@@ -4,7 +4,8 @@
 <a href="https://github.com/gaurav147-star"><img alt="Counter"src="https://visitor-badge.glitch.me/badge?page_id=gaurav147-star.visitor-badge" /></a>
 
 
-<h3 align="center">I’m currently learning FullStack Development & DSA.</h3>
+<h4><img  alt="huin" height="24px" src="./assets/minions-transparent-background-7.png"/> I’m currently learning FullStack Development & DSA.</h4>
+
 </p>
 <details>
 <summary style="font-weight: bold">Connect With Me </summary>
