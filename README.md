@@ -1,6 +1,7 @@
-<h2 align="center">
+
 <h1 align="center">Hi 👋, I'm Gaurav Gupta</h1>
-<div class="hero">
+ <img src="./assets/logo.png" width="250px" align="right" />
+<p align="left">
 <a href="https://github.com/gaurav147-star"><img alt="Counter"src="https://visitor-badge.glitch.me/badge?page_id=gaurav147-star.visitor-badge" /></a>
 
 
