@@ -1,12 +1,16 @@
 <h2 align="center">
 <h1 align="center">Hi 👋, I'm Gaurav Gupta</h1>
-<p align="left">
+<div class="hero">
 <a href="https://github.com/gaurav147-star"><img alt="Counter"src="https://visitor-badge.glitch.me/badge?page_id=gaurav147-star.visitor-badge" /></a>
 
 
 <h4><img  alt="huin" height="24px" src="./assets/minions-transparent-background-7.png"/> I’m currently learning FullStack Development & DSA.</h4>
 
-</p>
+<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px" align="right" />
+
+</div>
+
+<div class="container" style="margin-top: 100px">
 <details>
 <summary style="font-weight: bold">Connect With Me </summary>
 
@@ -48,6 +52,7 @@
  </p>
  
  </details>
+ </div>
 <table align="center">
   <tr>
 
