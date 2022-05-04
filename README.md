@@ -7,8 +7,6 @@
 
 <h4><img  alt="huin" height="24px" src="./assets/minions-transparent-background-7.png"/> I’m currently learning FullStack Development & DSA.</h4>
 
-<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px" align="right" />
-
 </div>
 
 <div class="container" style="margin-top: 100px">
