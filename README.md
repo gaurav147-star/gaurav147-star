@@ -6,17 +6,20 @@
 
 <h3 align="center">I’m currently learning FullStack Development & DSA.</h3>
 </p>
- <h2 align="center">
+<details>
+<summary style="font-weight: bold">Connect With Me </summary>
 
-<h2 align="left">Connect with me:</h2>
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/gaugupta147" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-08143D?style=for-the-badge&logo=twitter&logoColor=white" alt="gaugupta147" height="30"  /></a>
 <a href="https://www.linkedin.com/in/gaurav147/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-FF3D00?style=for-the-badge&logo=linkedin&logoColor=white" alt="gaurav-gupta-b913aa202" height="30"  /></a>
 <a href="https://instagram.com/gaurav07gupta" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-D44FB7?style=for-the-badge&logo=instagram&logoColor=white" alt="gaurav07gupta" height="30"  /></a>
 <a href="https://gauravgupta9158@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gauravgupta9158@gmail.com" height="30"  /></a>
 </p>
+</details>
+<details>
+<summary style="font-weight: bold">Languages And Tools</summary>
 
-<h2 align="left">Languages and Tools:</h2>
+
 
 <p align="left">
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
@@ -35,7 +38,15 @@
     <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     <img alt="NeoVim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
 </p>
+</details>
 
+ <details>
+ <summary style="font-weight: bold">Current rice</summary>
+
+ <p align="center"> <img src="./assets/rice2.png" alt="gaurav147-star" />
+ </p>
+ 
+ </details>
 <table align="center">
   <tr>
 
@@ -54,14 +65,6 @@
     </tr>
 
   </table>
- <h2 align="center">
 
- <details>
- <summary>Current rice</summary>
 
----
 
- <p align="center"> <img src="https://raw.githubusercontent.com/gaurav147-star/gaurav147-star/main/assets/rice.png" alt="gaurav147-star" />
- </p>
- 
- </details>
