@@ -1,29 +1,26 @@
-
-<h1 align="center">Hi 👋, I'm Gaurav Gupta</h1>
+<h2 align="center">Hi 👋, I'm Gaurav Gupta! Great to see you here!</h2>
  <img src="./assets/logo.png" width="250px" align="right" />
 <p align="left">
 <a href="https://github.com/gaurav147-star"><img alt="Counter"src="https://visitor-badge.glitch.me/badge?page_id=gaurav147-star.visitor-badge" /></a>
-
 
 <h4><img  alt="huin" height="24px" src="./assets/minions-transparent-background-7.png"/> I’m currently learning FullStack Development & DSA.</h4>
 
 </div>
 
 <div class="container" style="margin-top: 100px">
-<details>
-<summary style="font-weight: bold">Connect With Me </summary>
+ 
 
-<p align="center">
-<a href="https://twitter.com/gaugupta147" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-08143D?style=for-the-badge&logo=twitter&logoColor=white" alt="gaugupta147" height="30"  /></a>
-<a href="https://www.linkedin.com/in/gaurav147/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-FF3D00?style=for-the-badge&logo=linkedin&logoColor=white" alt="gaurav-gupta-b913aa202" height="30"  /></a>
-<a href="https://instagram.com/gaurav07gupta" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-D44FB7?style=for-the-badge&logo=instagram&logoColor=white" alt="gaurav07gupta" height="30"  /></a>
-<a href="https://gauravgupta9158@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gauravgupta9158@gmail.com" height="30"  /></a>
-</p>
-</details>
+<div style="font-weight: bold">Connect With Me </div>
+
+<a href="https://twitter.com/gaugupta147" target="blank"><img align="center" height="20px" src="https://img.shields.io/badge/-gaugupta147-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="gaugupta147" height="20"  /></a>
+<a href="https://www.linkedin.com/in/gaurav147/" target="blank"><img align="center" src="https://img.shields.io/badge/-gaurav147-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="gaurav147" height="20"  /></a>
+
+<a href="https://instagram.com/gaurav07gupta" target="blank"><img align="center" height="20px" src="https://img.shields.io/badge/gaurav07gupta-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="gaurav07gupta" height="20"  /></a>
+
+
+
 <details>
 <summary style="font-weight: bold">Languages And Tools</summary>
-
-
 
 <p align="left">
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
@@ -55,21 +52,8 @@
 <table align="center">
   <tr>
 
-  <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav147-star&langs_count=8&theme=nightowl" alt="gaurav gupta"/></td>
+  <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav147-star&theme=nightowl&show_icons=true" alt="gaurav gupta"/></td>
    
 <td><img src="https://github-readme-stats.vercel.app/api?username=gaurav147-star&theme=nightowl&show_icons=true" alt="gaurav gupta" />
   </tr>  
 </table>
-<table align="center">
-  <tr>
-
-  <td>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav147-star&theme=nightowl&show_icons=true" alt="gaurav147-star" />
-
-  </td>
-    </tr>
-
-  </table>
-
-
-
