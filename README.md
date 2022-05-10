@@ -47,6 +47,8 @@
  
  </details>
  </div>
+
+ ## 📈 Stats
 <table align="center">
   <tr>
 
