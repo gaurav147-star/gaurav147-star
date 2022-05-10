@@ -14,7 +14,6 @@
 
 <a href="https://twitter.com/gaugupta147" target="blank"><img align="center" height="20px" src="https://img.shields.io/badge/-gaugupta147-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="gaugupta147" height="20"  /></a>
 <a href="https://www.linkedin.com/in/gaurav147/" target="blank"><img align="center" src="https://img.shields.io/badge/-gaurav147-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="gaurav147" height="20"  /></a>
-
 <a href="https://instagram.com/gaurav07gupta" target="blank"><img align="center" height="20px" src="https://img.shields.io/badge/gaurav07gupta-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="gaurav07gupta" height="20"  /></a>
 
 
