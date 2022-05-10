@@ -10,7 +10,7 @@
 <div class="container" style="margin-top: 100px">
  
 
-<div style="font-weight: bold">Connect With Me </div>
+### Connect With Me
 
 <a href="https://twitter.com/gaugupta147" target="blank"><img align="center" height="20px" src="https://img.shields.io/badge/-gaugupta147-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="gaugupta147" height="20"  /></a>
 <a href="https://www.linkedin.com/in/gaurav147/" target="blank"><img align="center" src="https://img.shields.io/badge/-gaurav147-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="gaurav147" height="20"  /></a>
@@ -56,3 +56,6 @@
 <td><img src="https://github-readme-stats.vercel.app/api?username=gaurav147-star&theme=nightowl&show_icons=true" alt="gaurav gupta" />
   </tr>  
 </table>
+
+<img src="https://activity-graph.herokuapp.com/graph?username=gaurav147-star&bg_color=011627&color=e4e2e2&line=d250fa&point=d250fa&area=true&hide_border=true">
+
