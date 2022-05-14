@@ -3,7 +3,9 @@
 <p align="left">
 <a href="https://github.com/gaurav147-star"><img alt="Counter"src="https://visitor-badge.glitch.me/badge?page_id=gaurav147-star.visitor-badge" /></a>
 
-<h4><img  alt="huin" height="24px" src="./assets/minions-transparent-background-7.png"/> I’m currently learning FullStack Development & DSA.</h4>
+- <img  alt="huin" height="24px" src="./assets/minions-transparent-background-7.png"/> I’m currently learning FullStack Development & DSA.
+- Passionate in collaborating with new people on projects.
+- Exploring new technologies to improve my skills.
 
 </div>
 
