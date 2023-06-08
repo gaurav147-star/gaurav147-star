@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaurav Gupta! Great to see you here!</h1>
  <img src="./assets/logo.png" width="250px" align="right" />
 <p align="left">
-<a href="https://github.com/gaurav147-star"><img alt="Counter"src="https://visitor-badge.glitch.me/badge?page_id=gaurav147-star.visitor-badge" /></a>
 
 - <img  alt="huin" height="24px" src="./assets/minions-transparent-background-7.png"/> I’m currently learning FullStack Development & DSA.
 - I enjoy collaborating on projects with new people.
@@ -62,5 +61,3 @@
 <td><img src="https://github-readme-stats.vercel.app/api?username=gaurav147-star&theme=nightowl&show_icons=true" alt="gaurav gupta" />
   </tr>  
 </table>
-
-<img src="https://activity-graph.herokuapp.com/graph?username=gaurav147-star&bg_color=011627&color=e4e2e2&line=d250fa&point=d250fa&area=true&hide_border=true">
